@@ -44,6 +44,14 @@ This Streamlit application analyzes tweets to distinguish between anti-Semitic a
 
 ### Installation
 
-1. Clone the repository:
+Clone the repository:
    ```bash
    git clone https://github.com/yourusername/antisemitism-vs-antizionism-analysis.git
+```
+
+watch it live:
+```
+https://antisemitism-vs-antizionism.streamlit.app/
+```
+
+
